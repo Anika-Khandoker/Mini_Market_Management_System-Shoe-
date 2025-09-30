@@ -1,27 +1,17 @@
-# Mini_Market_Management_System-Shoe-
-Mini Market Management System - Shoe 
+﻿
+Guna.UI2 WinForms is the suite for creating groundbreaking desktop app UI. It is for developers targeting the .NET Windows Forms platform. 
 
-Mini Market Management System - Shoe is a C#-based B2B shoe marketplace designed to connect wholesalers and retailers on a single platform. The system provides a seamless way for wholesalers to manage inventory, process Letter of Credit (LC) payments, and analyze sales performance, while retailers can browse product catalogs, place bulk orders, customize selections, and track order statuses in real time.
+## .NET
+- .NET Framework v4.0 or higher
+- .NETCoreApp 3.1 or higher
+- .NET 6
+- .NET 7
 
-This project emphasizes scalability, security, and role-based access, ensuring smooth operations for both sides of the supply chain.
-
-✨ Key Features
- For Wholesalers
-Add, update, and manage shoe inventory
-Process and verify LC payments securely
-Access analytics dashboards for sales insights
-
- For Retailers
-Browse and search shoe collections
-Place bulk orders with customization options
-Track real-time order and payment status
-
- System-Wide
-User authentication & role-based access (Admin, Wholesaler, Retailer)
-Robust database integration for performance & reliability
-Clean and responsive UI for ease of use
-
- Built With
-C# – Core language for full-stack development
-SQL Database – For storing products, orders, payments, and analytics
-Windows Forms – For front-end UI and interactions
+## IDE
+- Visual Studio 2012 or higger
+ 
+## Links
+- [Homepage](https://gunaui.com/)  
+- [Demos](https://gunaui.com/demos/)
+- [Nuget Profile](https://www.nuget.org/profiles/Sobatdata)
+- [Youtube](https://www.youtube.com/@gunaui4933/)
